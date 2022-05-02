@@ -1,0 +1,1 @@
+En esta práctica hemos completado con comentarios, dudas y aclaraciones los ejercicios en R y Python realizados en clase. Una vez realizados los comentarios en los cuadernos, que desarrollan el proceso de aprendizaje de las funciones aplicadas, hemos descargado los cuadernos en formato "html" y "ipynb" para después subirlos a github directamente desde la terminal.
